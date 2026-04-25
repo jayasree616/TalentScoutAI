@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Rahul Sharma",
+    "skills": ["Python", "SQL", "AWS", "REST API"],
+    "experience": 3,
+    "location": "Hyderabad",
+    "bio": "Backend Developer with ML exposure"
+  },
+  {
+    "name": "Priya Reddy",
+    "skills": ["Python", "Django", "SQL", "Docker"],
+    "experience": 4,
+    "location": "Bangalore",
+    "bio": "Full Stack Python Developer"
+  },
+  {
+    "id": 1,
+    "name": "Alex Mercer",
+    "role": "Senior Backend Engineer",
+    "skills": ["Python", "Django", "PostgreSQL", "AWS"],
+    "experience_years": 6,
+    "bio": "Experienced backend developer focused on scalable architecture."
+  },
+  {
+    "id": 2,
+    "name": "Samira Khan",
+    "role": "Data Scientist",
+    "skills": ["Python", "Machine Learning", "SQL", "TensorFlow"],
+    "experience_years": 3,
+    "bio": "Data enthusiast with a knack for predictive modeling."
+  },
+  {
+    "id": 3,
+    "name": "Jordan Lee",
+    "role": "Full Stack Developer",
+    "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Python"],
+    "experience_years": 4,
+    "bio": "Product-focused engineer who loves building intuitive UIs."
+  }
+]
