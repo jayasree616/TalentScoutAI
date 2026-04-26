@@ -144,15 +144,22 @@ This allows recruiters to act immediately.
 
 ```
 Recruiter Inputs Job Description
-↓
+         ↓
 Gemini JD Parser
- ↓ Resume Upload (PDF)
-↓ Resume Parser (PyPDF2)
-↓ Candidate Matching Engine
-↓ AI Recruiter Engagement Simulation
-↓ Match Score + Interest Score
-↓ Final Ranked Shortlist
-↓ Recruiter Decision Support
+         ↓
+Resume Upload (PDF)
+         ↓
+Resume Parser (PyPDF2)
+         ↓
+ Candidate Matching Engine
+         ↓
+AI Recruiter Engagement Simulation
+         ↓
+Match Score + Interest Score
+         ↓
+Final Ranked Shortlist
+         ↓
+Recruiter Decision Support
 ---
 ---
 
