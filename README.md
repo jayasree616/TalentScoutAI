@@ -143,7 +143,8 @@ This allows recruiters to act immediately.
 # 🏗 System Architecture
 
 ```
-<img width="2509" height="4315" alt="Untitled diagram-2026-04-26-093716" src="https://github.com/user-attachments/assets/c58ab93b-bb67-4aa6-9028-d3fd936eb8a0" />
+<img width="527" height="894" alt="image" src="https://github.com/user-attachments/assets/919ce9dc-1c72-4b65-bb19-82e27c14c2a1" />
+
 
 
 ---
