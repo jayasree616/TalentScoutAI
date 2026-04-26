@@ -160,7 +160,7 @@ Match Score + Interest Score
 Final Ranked Shortlist
          ↓
 Recruiter Decision Support
----
+
 ---
 
 # 📊 Scoring Logic
