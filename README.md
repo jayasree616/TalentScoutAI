@@ -143,9 +143,10 @@ This allows recruiters to act immediately.
 # 🏗 System Architecture
 
 ```
-<img width="2509" height="4315" alt="image" src="https://github.com/user-attachments/assets/ab60b485-3397-42cd-9a81-53736c93fcdc" />
+<img width="2509" height="4315" alt="Untitled diagram-2026-04-26-093716" src="https://github.com/user-attachments/assets/c58ab93b-bb67-4aa6-9028-d3fd936eb8a0" />
 
 
+---
 ---
 
 # 📊 Scoring Logic
