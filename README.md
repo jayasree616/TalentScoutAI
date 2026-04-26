@@ -329,7 +329,7 @@ Schedule Technical Interview
 <img width="1853" height="898" alt="image" src="https://github.com/user-attachments/assets/88c34f15-0dde-4489-a737-ef19bf302cb8" />
 
 
-<img width="1772" height="850" alt="image" src="https://github.com/user-attachments/assets/04d8a6a8-ba37-48c0-940d-9504d2961618" />
+<img width="1772" height="858" alt="image" src="https://github.com/user-attachments/assets/04d8a6a8-ba37-48c0-940d-9504d2961618" />
 
 
 <img width="1822" height="854" alt="image" src="https://github.com/user-attachments/assets/48acbe46-a1a3-4d69-b50b-271cd32079aa" />
