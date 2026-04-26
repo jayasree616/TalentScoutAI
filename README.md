@@ -143,10 +143,16 @@ This allows recruiters to act immediately.
 # 🏗 System Architecture
 
 ```
-<img width="527" height="894" alt="image" src="https://github.com/user-attachments/assets/919ce9dc-1c72-4b65-bb19-82e27c14c2a1" />
-
-
-
+Recruiter Inputs Job Description
+↓
+Gemini JD Parser
+ ↓ Resume Upload (PDF)
+↓ Resume Parser (PyPDF2)
+↓ Candidate Matching Engine
+↓ AI Recruiter Engagement Simulation
+↓ Match Score + Interest Score
+↓ Final Ranked Shortlist
+↓ Recruiter Decision Support
 ---
 ---
 
