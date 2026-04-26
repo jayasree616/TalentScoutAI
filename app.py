@@ -139,6 +139,19 @@ if st.button("🚀 Run Talent Scout Agent"):
             )
 
             # Better professional explanation
+            candidate_skills = candidate.get("skills", [])
+            jd_skills = parsed_jd.get("must_have_skills", [])
+
+            matched_skills = []
+
+            for skill in jd_skills:
+                for c_skill in candidate_skills:
+                    if skill.lower() in c_skill.lower() or c_skill.lower() in skill.lower():
+                        matched_skills.append(c_skill)
+
+            if not matched_skills:
+                matched_skills = candidate_skills[:3]
+
             strong_explanation = (
                 f"{candidate.get('name', 'Candidate')} shows strong alignment "
                 f"with the required role. Has experience in "
@@ -178,9 +191,11 @@ if st.button("🚀 Run Talent Scout Agent"):
             f"{top_candidate['Candidate Name']} "
             f"(Final Score: {top_candidate['Final Score']})"
         )
+        top_skills = top_candidate["Skills"].split(",")[:3]
 
         st.info(
-            "Recommended Action: Schedule Technical Interview"
+            f"Recommended Action: Schedule Technical Interview "
+            f"due to strong alignment in {', '.join(top_skills)}."
         )
 
         st.markdown("---")

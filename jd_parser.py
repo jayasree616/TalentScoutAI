@@ -25,7 +25,9 @@ IMPORTANT RULES:
 - Use only skills explicitly mentioned
 - If Machine Learning is mentioned, include it
 - If Cloud/AWS/GCP is mentioned, include it
-- If Communication is mentioned, include it
+- If Communication is mentioned,
+consider it as a soft skill
+but do NOT include it inside must_have_skills
 - If experience is written like "2+ years", return 2
 - Return ONLY valid JSON
 - No markdown
